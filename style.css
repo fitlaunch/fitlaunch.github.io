@@ -1,0 +1,23 @@
+body {
+	font-family: 'Raleway', sans-serif;
+  	background-color: coral;
+  	margin-top: 100px;
+  	background-image: url("spectacle-shine.jpg");
+  	background-repeat: no-repeat;
+  	background-size: 95%;
+  	background-attachment: local;
+  	background-position: center 5px;
+  }
+
+ h1 {
+ 	text-align: center;
+ 	text-shadow: 2px 3px coral;
+ 	color: #ffffff;
+ 	font-size: 5em;
+ }
+ .spacer{
+ 	margin-top: 282px
+ }
+ .card-text2{
+ 	font-style: italic;
+ }
